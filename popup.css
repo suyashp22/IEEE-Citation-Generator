@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 250px; /* Adjust width as needed */
+    height: auto;
+    padding: 10px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #citation {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 5px;
+  }
+  

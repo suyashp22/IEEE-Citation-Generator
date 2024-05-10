@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "IEEE Citation Generator",
+  "version": "1.0",
+  "description": "Generates a citation for IEEE papers",
+  "permissions": ["activeTab", "storage","scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": ["<all_urls>"]
+}
